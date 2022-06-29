@@ -1,0 +1,5 @@
+[{"title":"Computadora","price":50000,"thumbnail":"http://URL","id":0},
+{"title":"Monitor","price":20000,"thumbnail":"http://URL","id":1},
+{"title":"Celular","price":30000,"thumbnail":"http://URL","id":2},
+{"title":"Zapatilla","price":2000,"thumbnail":"http://URL","id":3},
+{"title":"Fideos","price":200,"thumbnail":"http://URL","id":4}]
