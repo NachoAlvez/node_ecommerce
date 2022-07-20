@@ -1,4 +1,3 @@
-
 let listadoProductos = [];
 
 class Contenedor {
