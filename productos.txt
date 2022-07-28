@@ -1,0 +1,1 @@
+[{"timestamp":"21:07:32","name":"salchichas vienisima","description":"salchicha de cerdo,paloma y rata","thumbnail":"salchipapa","price":7.25,"code":10,"stock":114,"id":2},{"timestamp":"27/07/2022 21:07:13","name":"Chicles beldent","description":"goma de mascar sabor menta","thumbnail":"chicle masticable","price":1.25,"code":140,"stock":1114,"id":3}]
